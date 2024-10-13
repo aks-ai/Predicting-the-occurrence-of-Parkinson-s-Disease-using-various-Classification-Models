@@ -2,7 +2,7 @@
 
 This repository contains the implementation of various machine learning models used to detect Parkinson's disease from biomedical voice measurements. The dataset and methods used follow the work presented in the paper titled **"Machine Learning Approaches for Detecting Parkinson’s Disease Using Biomedical Voice Measurements"**.
 
-**My Publication/Paper link**: [Machine Learning Approaches for Detecting Parkinson’s Disease Using Biomedical Voice Measurements](https://ieeexplore.ieee.org/document/8933579)
+**My Publication/Paper link**: [Predicting-the-occurrence-of-Parkinson-s-Disease-using-various-Classification-Models](https://ieeexplore.ieee.org/document/8933579)
 
 ## Project Description
 
