@@ -1,0 +1,49 @@
+		Training Set Test Set      Model  			  Accuracy
+								
+								Logistic Regression 
+
+			80%			20%		  	FALSE TRUE			79.48%
+ 							 	0     6    4
+  							 	1     4   25
+
+									K(10)NN 
+
+			80%			20%		  	FALSE TRUE			84.61%
+ 							 	0     5    5
+  							 	1     1   28
+
+									SVM 
+
+			80%			20%		  	FALSE TRUE			84.61%
+ 							 	0     5    5
+  							 	1     1   28
+
+									Kernel SVM 
+
+			80%			20%		  	FALSE TRUE			84.61%
+ 							 	0     4    6
+  							 	1     0   29
+
+									Naive Bayes 
+
+			80%			20%		  	FALSE TRUE			71.79%
+ 							 	0     8    2
+  							 	1     9   20  							 	
+
+									Decision Tree 
+
+			80%			20%		  	FALSE TRUE			71.79%
+ 							 	0     7    3
+  							 	1     8   21
+
+									Random Forest 
+
+			80%			20%		  	FALSE TRUE			87.17%
+ 							 	0     7    3
+  							 	1     2   27  		
+
+										ANN
+
+			80%			20%		  	FALSE TRUE			94.87%
+ 							 	0     9    1
+  							 	1     1   28  							 	
